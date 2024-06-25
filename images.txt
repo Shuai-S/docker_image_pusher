@@ -1,2 +1,2 @@
 hagb/docker-easyconnect:7.6.7
-hagb/docker-atrust:
+hagb/docker-atrust
