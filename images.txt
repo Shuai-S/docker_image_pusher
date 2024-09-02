@@ -1,2 +1,3 @@
 hagb/docker-easyconnect:7.6.7
 hagb/docker-atrust
+openjdk:17-slim-buster
